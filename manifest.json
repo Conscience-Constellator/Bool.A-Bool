@@ -1,8 +1,8 @@
 {
   "project_root": ".",
-  "modules": "CC.Bool.A$",
+  "modules": "CC.Bool.A$Bool",
   "entry_points": "",
   "priority": "",
-  "repo_urls": "https://github.com/Conscience-Constellator/Bool.A$",
+  "repo_urls": "https://github.com/Conscience-Constellator/Bool.A$Bool",
   "notes": "No mains"
 }
